@@ -1,2 +1,5 @@
 What happens when you initialize a repository? Why do you need to do it?
 - a ghost .git file is created in the folder. git starts to keep track of what is done to the file.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+- It’s a space between the directory and the repo, i’m still not sure why it exists.
